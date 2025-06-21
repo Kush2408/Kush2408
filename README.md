@@ -7,9 +7,9 @@ I'm a passionate **Front-End Developer** who loves crafting responsive, dynamic,
 ## 🛠️ Tech Stack
 
 - 🔹 **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- 🔹 **Frameworks/Libraries**: React.js, Redux, Next.js, jQuery
+- 🔹 **Frameworks/Libraries**: React.js, Redux, jQuery
 - 🔹 **Styling**: Tailwind CSS, SCSS, Bootstrap
-- 🔹 **Tools**: Git, GitHub, VS Code, Figma, Chrome DevTools
+- 🔹 **Tools**: Git, GitHub, VS Code, Chrome DevTools
 - 🔹 **Build Tools**: Vite, Webpack, npm, yarn
 - 🔹 **Testing**: Jest, React Testing Library
 - 🔹 **Deployment**: Netlify, Vercel, GitHub Pages
@@ -40,7 +40,7 @@ Take a look at some of my projects:
 - 🌐 [Portfolio](https://your-portfolio.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 - 📁 [GitHub](https://github.com/yourusername)
-- 📫 Email: your.email@example.com
+- 📫 Email: pkush654@gmail.com
 
 ---
 
