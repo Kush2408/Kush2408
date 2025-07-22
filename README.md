@@ -8,10 +8,9 @@ I'm a passionate **Front-End Developer** who loves crafting responsive, dynamic,
 
 - 🔹 **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - 🔹 **Frameworks/Libraries**: React.js, Redux, jQuery
-- 🔹 **Styling**: Tailwind CSS, SCSS, Bootstrap
+- 🔹 **Styling**: Tailwind CSS, Bootstrap
 - 🔹 **Tools**: Git, GitHub, VS Code, Chrome DevTools
-- 🔹 **Build Tools**: Vite, Webpack, npm, yarn
-- 🔹 **Testing**: Jest, React Testing Library
+- 🔹 **Build Tools**: Vite, Webpack, npm
 - 🔹 **Deployment**: Netlify, Vercel, GitHub Pages
 
 ---
