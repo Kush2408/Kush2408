@@ -20,7 +20,7 @@ I'm a passionate **Front-End Developer** who loves crafting responsive, dynamic,
 Take a look at some of my projects:
 
 - 🛒 [E-Commerce Platform](https://eshp.netlify.app/) — Full-featured site with dynamic filtering, admin dashboard, product details, cart and checkout.
-- 🎨 [Portfolio Website](https://github.com/Kush2408/KushPatel.Dev.git) — A sleek and animated site showcasing my work and contact info.
+- 🎨 [Portfolio Website](https://kushpateldev.netlify.app/) — A sleek and animated site showcasing my work and contact info.
 
 ---
 
@@ -35,7 +35,7 @@ Take a look at some of my projects:
 
 ## 🤝 Let's Connect!
 
-- 🌐 [Portfolio](https://github.com/Kush2408/KushPatel.Dev.git)
+- 🌐 [Portfolio](https://kushpateldev.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BKfJIQQmFT163O1e4JcGsiw%3D%3D)
 - 📁 [GitHub](https://github.com/Kush2408)
 - 📫 Email: pkush654@gmail.com
